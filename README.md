@@ -1,4 +1,4 @@
 # Sensik
-Landing page for company try to solve brand story for other company
+Landing page from figma to html/css js
 
 Live preview: https://jdnzer.github.io/Sensik.github.io/
